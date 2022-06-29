@@ -1,0 +1,22 @@
+thead 
+{background-color:rgb(236, 90, 120);}
+    
+tbody
+{
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: circle;
+}
+
+p
+{
+    font-weight: 900;
+}
